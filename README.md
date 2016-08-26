@@ -33,6 +33,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [[zplugin](https://github.com/psprint/zplugin)](#zpluginhttpsgithubcompsprintzplugin)
   - [[ZPM](https://github.com/horosgrisa/ZPM)](#zpmhttpsgithubcomhorosgrisazpm)
   - [[ztanesh](https://github.com/miohtama/ztanesh)](#ztaneshhttpsgithubcommiohtamaztanesh)
+  - [[zulu](https://github.com/zulu-zsh/zulu)](#zuluhttpsgithubcomzulu-zshzulu)
 - [Tutorials](#tutorials)
   - [Generic ZSH](#generic-zsh)
   - [Antigen](#antigen)
@@ -139,6 +140,10 @@ These frameworks make customizing your zsh setup easier.
 ### [ztanesh](https://github.com/miohtama/ztanesh)
 
 **Ztanesh** aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project: the tools will make your shell more powerful and easier to use.
+
+### [zulu](https://github.com/zulu-zsh/zulu)
+
+**Zulu** is a ZSH environment manager, which aims to allow for managing plugins, themes, paths, aliases and more without needing to edit configuration files.
 
 ## Tutorials
 
@@ -429,6 +434,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [delta-prompt](https://github.com/cusxio/delta-prompt) - A minimal Zsh prompt
 * [dracula](https://github.com/zenorocha/dracula-theme) - A dark theme for Atom, Alfred, Chrome DevTools, iTerm, Sublime Text, Textmate, Terminal.app, Vim, Xcode, Zsh.
 * [excess](https://github.com/davydovanton/excess.zsh-theme) - Simple zsh color theme.
+* [filthy](https://github.com/molovo/filthy) - A disgustingly clean ZSH prompt theme.
 * [frisk-arrow](https://github.com/BakeRolls/frisk-arrow) - A theme based on the [frisk](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/frisk.zsh-theme) oh-my-zsh-theme.
 * [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) - Red version of the frisk theme from oh-my-zsh.
 * [frlo](https://github.com/fiorillo/frlo) - Uses your computer's hostname to come up with a (hopefully) unique three-color theme to display in your prompt, so you know at a glance which machine you're logged into.
